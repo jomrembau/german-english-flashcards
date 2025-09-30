@@ -1,0 +1,134 @@
+kennen | to know
+gelten | to apply
+stellen | to place
+spielen | to play
+arbeiten | to work
+brauchen | to need
+folgen | to follow
+lernen | to learn
+bestehen | to exist
+verstehen | to understand
+setzen | to set
+bekommen | to receive
+beginnen | to begin
+erzahlen | to tell
+versuchen | to try
+schreiben | to write
+laufen | to run
+erklaren | to explain
+entsprechen | to correspond
+sitzen | to sit
+ziehen | to pull
+scheinen | to seem
+eins | one
+zwei | two
+drei | three
+vier | four
+funf | five
+sechs | six
+sieben | seven
+acht | eight
+neun | nine
+zehn | ten
+elf | eleven
+zwolf | twelve
+dreizehn | thirteen
+vierzehn | fourteen
+funfzehn | fifteen
+zwanzig | twenty
+dreissig | thirty
+vierzig | forty
+funfzig | fifty
+hundert | hundred
+Mutter | mother
+Vater | father
+Bruder | brother
+Schwester | sister
+Kind | child
+Familie | family
+Sohn | son
+Tochter | daughter
+Eltern | parents
+Montag | Monday
+Dienstag | Tuesday
+Mittwoch | Wednesday
+Donnerstag | Thursday
+Freitag | Friday
+Samstag | Saturday
+Sonntag | Sunday
+Januar | January
+Februar | February
+Marz | March
+April | April
+Mai | May
+Juni | June
+Juli | July
+August | August
+September | September
+Oktober | October
+November | November
+Dezember | December
+rot | red
+blau | blue
+grün | green
+gelb | yellow
+schwarz | black
+weiss | white
+braun | brown
+grau | gray
+rosa | pink
+lila | purple
+Haus | house
+Auto | car
+Strasse | street
+Buch | book
+Stuhl | chair
+Tisch | table
+Fenster | window
+Tur | door
+Schule | school
+Universitat | university
+Arbeit | work
+Freund | friend
+Zeit | time
+Wasser | water
+Essen | food
+Milch | milk
+Kase | cheese
+Fleisch | meat
+Fisch | fish
+Apfel | apple
+Brot | bread
+gut | good
+schlecht | bad
+gross | big
+klein | small
+neu | new
+alt | old
+schon | beautiful
+hasslich | ugly
+jung | young
+glucklich | happy
+traurig | sad
+heiss | hot
+kalt | cold
+interessant | interesting
+oft | often
+immer | always
+nie | never
+manchmal | sometimes
+sehr | very
+auch | also
+nur | only
+schon | already
+noch | still
+und | and
+oder | or
+aber | but
+weil | because
+wenn | if
+nicht | not
+ja | yes
+nein | no
+bitte | please
+danke | thank you
